@@ -1,5 +1,5 @@
 <?php
 
-echo "teste de PHP realizado com sucesso";
+		echo "teste de PHP realizado com sucesso";
 
 ?>
